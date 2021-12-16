@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TR\\Documents\\GitHub\\helloworld\\TemperatureCalculator\\TemperatureCalculator\\TemperatureCalculator.csproj": {}
+    "C:\\Users\\TR\\Documents\\GitHub\\helloworld\\Temperature Calculator\\Temperature Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TR\\Documents\\GitHub\\helloworld\\TemperatureCalculator\\TemperatureCalculator\\TemperatureCalculator.csproj": {
+    "C:\\Users\\TR\\Documents\\GitHub\\helloworld\\Temperature Calculator\\Temperature Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TR\\Documents\\GitHub\\helloworld\\TemperatureCalculator\\TemperatureCalculator\\TemperatureCalculator.csproj",
-        "projectName": "TemperatureCalculator",
-        "projectPath": "C:\\Users\\TR\\Documents\\GitHub\\helloworld\\TemperatureCalculator\\TemperatureCalculator\\TemperatureCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\TR\\Documents\\GitHub\\helloworld\\Temperature Calculator\\Temperature Calculator.csproj",
+        "projectName": "Temperature Calculator",
+        "projectPath": "C:\\Users\\TR\\Documents\\GitHub\\helloworld\\Temperature Calculator\\Temperature Calculator.csproj",
         "packagesPath": "C:\\Users\\TR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TR\\Documents\\GitHub\\helloworld\\TemperatureCalculator\\TemperatureCalculator\\obj\\",
+        "outputPath": "C:\\Users\\TR\\Documents\\GitHub\\helloworld\\Temperature Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TR\\AppData\\Roaming\\NuGet\\NuGet.Config",
