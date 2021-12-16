@@ -20,5 +20,18 @@ namespace TemperatureCalculator
             // show input to textbox
             textBoxF.Text = f.ToString();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string input = textBoxF.Text;
+            double f = Convert.ToDouble(input);
+            double c = (f-32)* 5/9;
+            textBoxC.Text = c.ToString();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            textBoxC.Text = "";
+            textBoxF.Text = "";
+        }
     }
-}
